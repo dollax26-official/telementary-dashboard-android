@@ -1,5 +1,10 @@
 {
   "appId": "com.fern.dashboard",
   "appName": "FernDashboard",
-  "webDir": "www"
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
 }
